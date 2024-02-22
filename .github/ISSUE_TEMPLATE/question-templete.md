@@ -9,14 +9,11 @@ assignees: ''
 
 **Question**
 ---
-A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
 
 **Answer**
 ---
-A clear and concise description of what you want to happen.
 
-**Explain about unknown concept **
+**Explain about unknown concept**
 ---
 - 
 - 
--
