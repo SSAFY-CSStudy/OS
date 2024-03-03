@@ -8,16 +8,22 @@ assignees: ''
 ---
 
 ## 1Depth
+<div>Question</div>
 
-- Question
-
-- Answer
+</br>
+<details>
+<summary>Answer</summary>
+  설명
+</details>
 
 ## 2Depth
 
-- Question
+<div>Question</div>
 
-- Answer
-
+</br>
+<details>
+<summary>Answer</summary>
+  설명
+</details>
 
 ### Additional Explain
